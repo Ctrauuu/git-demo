@@ -7,5 +7,6 @@ hello git!
 asd
 asd
 
-aslidjlas  master test
 fixed by hot-fix
+aslidjlas
+fixed by hot-fix hot-fix test
